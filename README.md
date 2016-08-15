@@ -1,3 +1,16 @@
 # Differential Gene Expression Analysis
 # *Schistocephalus solidus*
 
+## Various R/Python codes
+**Description**
+This repo contains various codes built to analysis RNA-seq data obtained for the cestode *S. solidus*.
+These codes simply serve as a reference to better understand how the dataset was analyzed and what were
+the exact parameters used in each package. They are not intended for direct re-use by other researchers,
+as they were optimized in the very specific context of our dataset (see [Hebert et al. 2016](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0128-3) for details).
+
+These codes are made available so that anybody can download them, read and understand them and maybe use
+some of the command lines for integration in another context, in another code. Our aim here is to make
+all of our analytical tools available for replicability purposes.
+
+**Use these codes at your onw risks, they might require a little bit of tweaking before working on other
+computers in other systems.**
