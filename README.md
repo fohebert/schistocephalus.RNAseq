@@ -15,4 +15,4 @@ all of our analytical tools available for replicability purposes.
 **IMPORTANT NOTE**: Use these codes at your own risks, they might require a little bit of tweaking before working on other
 computers in other systems.
 
-<a href="https://zenodo.org/badge/latestdoi/21854/fohebert/corset_pipeline"><img src="https://zenodo.org/badge/21854/fohebert/corset_pipeline.svg" alt="10.5281/zenodo.50971"></a>
+<a href="https://zenodo.org/badge/latestdoi/21854/fohebert/schistocephalus.RNAseq"><img src="https://zenodo.org/badge/21854/fohebert/schistocephalus.RNAseq.svg" alt="10.5281/zenodo.60211"></a>
