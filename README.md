@@ -1,1 +1,3 @@
-# schistocephalus.RNAseq
+# Differential Gene Expression Analysis
+# *Schistocephalus solidus*
+
