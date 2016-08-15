@@ -15,4 +15,4 @@ all of our analytical tools available for replicability purposes.
 **IMPORTANT NOTE**: Use these codes at your own risks, they might require a little bit of tweaking before working on other
 computers in other systems.
 
-(https://zenodo.org/badge/21854/fohebert/corset_pipeline.svg)
+[https://zenodo.org/badge/21854/fohebert/corset_pipeline.svg]
