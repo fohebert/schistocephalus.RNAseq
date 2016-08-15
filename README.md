@@ -12,5 +12,5 @@ These codes are made available so that anybody can download them, read and under
 some of the command lines for integration in another context, in another code. Our aim here is to make
 all of our analytical tools available for replicability purposes.
 
-**Use these codes at your onw risks, they might require a little bit of tweaking before working on other
-computers in other systems.**
+**IMPORTANT NOTE**: Use these codes at your onw risks, they might require a little bit of tweaking before working on other
+computers in other systems.
